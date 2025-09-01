@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Juan Díaz",
+    "initials": "JD",
+    "color": "#dbeafe",
+    "textColor": "#1e40af",
+    "rating": 5,
+    "text": "Office Suite Pro ha transformado nuestra productividad. Las herramientas de colaboración en tiempo real son increíbles para nuestro equipo remoto."
+  },
+  {
+    "name": "María Pérez",
+    "initials": "MP",
+    "color": "#ede9fe",
+    "textColor": "#7c3aed",
+    "rating": 4.5,
+    "text": "Como diseñadora freelance, Creative Design Pack tiene todo lo que necesito. Las plantillas premium me ahorran horas de trabajo."
+  },
+  {
+    "name": "Carlos Rojas",
+    "initials": "CR",
+    "color": "#d1fae5",
+    "textColor": "#065f46",
+    "rating": 5,
+    "text": "SecureNet Pro detectó una amenaza en nuestra red que ningún otro software había encontrado. Vale cada centavo por la tranquilidad que ofrece."
+  }
+]
