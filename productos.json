@@ -18,7 +18,7 @@
     "priceSource": 0,
     "buttonBg": "#2563eb",
     "buttonHover": "#1d4ed8",
-    "badge": "Aplicaciones",
+    "badge": "Programadores",
     "badgeBg": "#dbeafe",
     "badgeColor": "#1e40af"
   },
@@ -62,7 +62,7 @@
     "priceSource": 0,
     "buttonBg": "#f59e0b",
     "buttonHover": "#d97706",
-    "badge": "Desarrollo",
+    "badge": "Programadores",
     "badgeBg": "#fef3c7",
     "badgeColor": "#92400e"
   },
@@ -85,7 +85,7 @@
     "priceSource": 0,
     "buttonBg": "#dc2626",
     "buttonHover": "#b91c1c",
-    "badge": "Seguridad",
+    "badge": "Programadores",
     "badgeBg": "#fee2e2",
     "badgeColor": "#b91c1c"
   },
@@ -107,7 +107,7 @@
     "priceSource": 0,
     "buttonBg": "#2563eb",
     "buttonHover": "#1d4ed8",
-    "badge": "Negocios",
+    "badge": "Programadores",
     "badgeBg": "#dbeafe",
     "badgeColor": "#1e40af"
   },
@@ -129,7 +129,7 @@
     "priceSource": 0,
     "buttonBg": "#4f46e5",
     "buttonHover": "#4338ca",
-    "badge": "Diseño,Desarrollo",
+    "badge": "Programadores",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
   },
@@ -151,7 +151,7 @@
     "priceSource": 0,
     "buttonBg": "#4f46e5",
     "buttonHover": "#4338ca",
-    "badge": "Diseño,Desarrollo",
+    "badge": "Programadores",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
   },
@@ -173,7 +173,7 @@
     "priceSource": 0,
     "buttonBg": "#4f46e5",
     "buttonHover": "#4338ca",
-    "badge": "Diseño,Desarrollo",
+    "badge": "Programadores",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
   },
@@ -195,7 +195,7 @@
     "priceSource": 0,
     "buttonBg": "#4f46e5",
     "buttonHover": "#4338ca",
-    "badge": "Diseño,Desarrollo",
+    "badge": "Aplicaciones",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
   },
@@ -305,7 +305,7 @@
     "priceSource": 0,
     "buttonBg": "#7c3aed",
     "buttonHover": "#6d28d9",
-    "badge": "Programadores",
+    "badge": "Aplicaciones",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
   },
