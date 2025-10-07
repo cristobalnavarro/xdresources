@@ -24,7 +24,7 @@
   },
   {
     "id": 2,
-    "name": "XDPEDIDOS WEB",
+    "name": "XDWEBPEDIDOS",
     "category": "programmers",
     "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
     "tag": null,
@@ -113,7 +113,7 @@
   },
   {
     "id": 6,
-    "name": "WEBSOCKET SERVER",
+    "name": "XDWEBSOCKET SERVER",
     "category": "programmers,design,development",
     "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
     "tag": null,
@@ -135,7 +135,7 @@
   },
   {
     "id": 7,
-    "name": "WEBHTTPD SERVER",
+    "name": "XDWEBHTTPD SERVER",
     "category": "applications,design,development",
     "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
     "tag": null,
@@ -396,5 +396,50 @@
     "badge": "Programadores",
     "badgeBg": "#f3e8ff",
     "badgeColor": "#7c3aed"
+  },
+  {
+    "id": 19,
+    "name": "XDHBFEDBU",
+    "category": "applications",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+    "tag": null,
+    "description": "Biblioteca completa de componentes UI reutilizables para acelerar tu desarrollo frontend.",
+    "features": [
+      "100+ componentes React/Vue/Angular",
+      "Diseño responsive y accesible",
+      "Documentación detallada",
+      "Temas personalizables",
+      "Soporte para TypeScript"
+    ],
+    "priceLicense": 0,
+    "priceSource": 0,
+    "buttonBg": "#7c3aed",
+    "buttonHover": "#6d28d9",
+    "badge": "Programadores",
+    "badgeBg": "#f3e8ff",
+    "badgeColor": "#7c3aed"
+  },
+  {
+    "id": 20,
+    "name": "XDMODHARBOUR",
+    "category": "applications",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
+    "tag": null,
+    "description": "Biblioteca completa de componentes UI reutilizables para acelerar tu desarrollo frontend.",
+    "features": [
+      "100+ componentes React/Vue/Angular",
+      "Diseño responsive y accesible",
+      "Documentación detallada",
+      "Temas personalizables",
+      "Soporte para TypeScript"
+    ],
+    "priceLicense": 0,
+    "priceSource": 0,
+    "buttonBg": "#7c3aed",
+    "buttonHover": "#6d28d9",
+    "badge": "Programadores",
+    "badgeBg": "#f3e8ff",
+    "badgeColor": "#7c3aed"
   }
+
 ]
